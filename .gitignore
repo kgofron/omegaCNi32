@@ -1,0 +1,19 @@
+syntax: glob
+*~
+*.o
+*.d
+*.log
+*.dbl
+db/
+dbd/
+O.*
+envPaths
+bin/
+lib/
+as/
+autosave/
+/pmc/
+.bash_history
+.viminfo
+.hgignore
+.hg/
